@@ -17,15 +17,6 @@ show_excerpts: true
 minima:
   date_format: "%Y-%m-%d"
 
-# Minima: custom header links
-header_pages:
-  - _pages/front.md
-  - _pages/about.md
-  - _pages/404.html
-
-include:
-    - _pages
-
 exclude: 
     - .gitignore
     - Gemfile
