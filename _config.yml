@@ -19,17 +19,14 @@ minima:
 
 # Minima: custom header links
 header_pages:
-  - _pages/frontpage.md
+  - _pages/index.md
   - _pages/about.md
-  - _pages/archive.md
+  - _pages/404.html
 
 include:
     - _pages
 
 exclude: 
     - .gitignore
-    - docker-compose.yml
     - Gemfile
     - Gemfile.lock
-    - LICENSE
-    - README.md
