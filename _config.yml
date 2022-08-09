@@ -4,14 +4,14 @@ author: "Lukas Krappmann"
 
 theme: minima
 
-base_url: /mysite
+base_url: /
 
 # Minima social links
 github_username: krapluka
 linkedin_username: lukas-krappmann-1438b6174
 rss: rss
 
-# Minima: show excerpts in the frontpage
+# Minima: show excerpts in the index
 show_excerpts: true
 
 minima:
@@ -19,7 +19,7 @@ minima:
 
 # Minima: custom header links
 header_pages:
-  - _pages/index.md
+  - _pages/front.md
   - _pages/about.md
   - _pages/404.html
 
