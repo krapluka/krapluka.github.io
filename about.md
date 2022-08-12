@@ -8,10 +8,9 @@ permalink: /about/
 
 My name is Lukas Krappmann,
 
-and I am working in a consulting company where I am responsible for IT & Enterprise Architecture.
-I am doing a lot of work in strategic IT consulting as well as managing dependencies like data privacy and security up to the CIO level.
+and I work in a consulting firm where I am responsible for IT & Enterprise Architecture. I deal a lot with strategic IT consulting and its management of dependencies like data protection and security up to CIO level.
 
-Furthermore a colleague and I are hosting an Innovation Lab for young talents to develop interesting use case and work on new and treding tech.
+Also, a colleague and I run an Innovation Lab for young talent to develop interesting use cases and work on new and exciting technologies.
 
 The industries I work in are:
 - Automotive
@@ -19,7 +18,7 @@ The industries I work in are:
 
 My technical expertise:
 - .NET Core
-- Python (2.7 & 3.x)
+- Python
 - Azure
 
 Have fun exploring this blog!
